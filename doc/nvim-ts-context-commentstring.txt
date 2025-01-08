@@ -21,7 +21,7 @@ language tree (see `lua/ts_context_commentstring/internal.lua`):
 - `cpp`
 - `css`
 - `cue`
-- c#
+- `c#`
 - `gleam`
 - `glimmer`
 - `go`
